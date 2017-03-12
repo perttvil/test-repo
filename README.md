@@ -3,4 +3,4 @@
 Test website.
 
 URI:
-http://test-repo.perttvil.github.io/
+https://perttvil.github.io/test-repo/Lehtisivusto.htm
